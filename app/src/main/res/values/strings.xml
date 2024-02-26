@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="welcoming">Сохранить</string>
+    <string name="anonymous">Добро пожаловать, Anonymous</string>
+    <string name="clicking">Клик</string>
+    <string name="empty">empty</string>
+</resources>
